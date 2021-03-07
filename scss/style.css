@@ -1,6 +1,8 @@
 body {
   height: 100vh;
-  background-color: blueviolet;
+  background: #af68ea;
+  background: -webkit-gradient(linear, left bottom, left top, from(#af68ea), to(#6462e7));
+  background: linear-gradient(0deg, #af68ea 0%, #6462e7 100%);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

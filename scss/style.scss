@@ -1,6 +1,11 @@
 body {
   height: 100vh;
-  background-color: blueviolet;
+  background: rgb(175, 104, 234);
+  background: linear-gradient(
+    0deg,
+    rgba(175, 104, 234, 1) 0%,
+    rgba(100, 98, 231, 1) 100%
+  );
   display: flex;
   justify-content: center;
   align-items: center;
