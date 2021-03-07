@@ -1,8 +1,8 @@
 body {
   height: 100vh;
-  background: #af68ea;
-  background: -webkit-gradient(linear, left bottom, left top, from(#af68ea), to(#6462e7));
-  background: linear-gradient(0deg, #af68ea 0%, #6462e7 100%);
+  background: #6462e7;
+  background: -webkit-gradient(linear, left bottom, left top, from(#6462e7), to(#af68ea));
+  background: linear-gradient(0deg, #6462e7 0%, #af68ea 100%);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
